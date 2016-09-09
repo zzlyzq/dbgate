@@ -266,3 +266,8 @@ service haproxy restart
 # 团队介绍
 
 BOPS，隶属于中国领先视频公司的大数据团队。
+
+Joker
+James Ding
+SeSaHasaki
+zzlyzq
