@@ -263,3 +263,6 @@ service haproxy restart
 
 * [http://www.shencan.net/index.php/2013/06/26/haproxy-%E6%97%A5%E5%BF%97%E8%AF%A6%E8%A7%A3/](http://www.shencan.net/index.php/2013/06/26/haproxy-%E6%97%A5%E5%BF%97%E8%AF%A6%E8%A7%A3/)
 
+# 团队介绍
+
+BOPS，隶属于中国领先视频公司的大数据团队。
